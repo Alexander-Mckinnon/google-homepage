@@ -3,7 +3,6 @@ body{
     justify-content: center;
     flex-direction: column;
     margin:0px;
-    
      
 }
  
@@ -65,7 +64,9 @@ footer{
     flex:0 1 100%;
     display:flex;
     justify-content: space-between;
-    margin-top:23px;
+    margin-top:1.7em;
+    
+     
     
      
 }
