@@ -77,6 +77,7 @@ footer .pgroup1{
     margin-left:30px;
     justify-content: space-between;
     margin-right:10px;
+     
 }
 
 
@@ -85,4 +86,11 @@ footer .pgroup2{
     margin-right:30px;
     justify-content: space-between;
     width:230px;
+     
 }
+ 
+a{
+    color:grey;
+    text-decoration: none;
+}
+ 
