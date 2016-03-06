@@ -129,6 +129,7 @@ a:hover{
 }
 #nav{
      background: green;
+    
 }
 
 #nav ul{
@@ -166,3 +167,16 @@ a:hover{
     width:70px;
     margin-left:43em;
 }
+
+#results{
+    background:red;
+    margin-left:6.5em;
+}
+
+.hits{
+    margin-bottom:40px;
+}
+#foot{
+    margin-top: 500px;
+}
+ 
