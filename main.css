@@ -127,22 +127,22 @@ a:hover{
     display:flex;
     flex-direction: column;
 }
-#nav{
-     background: green;
-    
-}
+ 
 
 #nav ul{
     display:flex;
     margin-left:80px;
 }
 #nav li{
-    margin-left:30px
+    margin-left:30px;
+}
+
+nav li:hover{
+    text-decoration: underline;
 }
 
 
 #top_bar{
-    background:red;
     height:150px;
     display:flex;
     align-items: center;
@@ -165,11 +165,11 @@ a:hover{
     background-color:skyblue;
     height:35px;
     width:70px;
-    margin-left:43em;
+    margin-left:40em;
 }
 
 #results{
-    background:red;
+     
     margin-left:6.5em;
 }
 
@@ -179,4 +179,20 @@ a:hover{
 #foot{
     margin-top: 500px;
 }
- 
+.grey{
+    color:dimgray;
+}
+
+.results_url{
+    color:green;
+}
+.link{
+    color:blue;
+    
+}
+
+#related{
+    display:flex;
+    flex-direction: column;
+    margin-left:6em;
+}
