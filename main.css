@@ -193,6 +193,17 @@ nav li:hover{
 
 #related{
     display:flex;
-    flex-direction: column;
     margin-left:6em;
+    width:40em;
+    flex-wrap: wrap;
+     
+    
+    
+}
+ul{
+    width:50%;
+}
+
+.blue, li{
+    color:blue;
 }
